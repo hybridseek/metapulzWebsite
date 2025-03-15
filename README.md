@@ -53,4 +53,11 @@ Feel free to reach out via the **Contact Me** page or email at:
 
 ---
 
-🚀 **Let's build something amazing together!**  
+🚀 **Let's build something amazing together!**
+
+<!-- Assets -->
+<!-- Icons: https://boxicons.com/ -->
+<!-- Font: https://fonts.google.com/ -->
+<!-- Typed JS: https://github.com/mattboldt/type.js/ -->
+<!-- Scroll Reveal: https://scrollrevealjs.org/ -->
+<!-- Image Sources: https://unsplash.com/ -->
