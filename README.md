@@ -1,3 +1,8 @@
+
+
+
+
+
 # 🌐 Metapulz Platform and Career Consultancy Services
 
 Welcome to **Metapulz** — a professional portfolio website showcasing the work and services of a skilled **Software Developer**. This site is designed to highlight expertise in **web development, software engineering**, and **IT solutions**.
